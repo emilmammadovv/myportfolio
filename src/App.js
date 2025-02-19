@@ -8,9 +8,6 @@ import profilePic from "./assets/profile.jpg"; // Add your photo here
 import resumeFile from "./assets/resume.pdf"; // Add your resume here
 import QRCodeComponent from "./components/QRCodeComponent";
 
-// Add Google Fonts to your index.html or CSS file
-// <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto+Mono:wght@400;700&display=swap" rel="stylesheet">
-
 const Navbar = () => {
   const [activeSection, setActiveSection] = useState("about");
 

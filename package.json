@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://emilmammadovv.github.io/",
+  "homepage": "https://emilmammadovv.github.io/myportfolio/",
   "dependencies": {
     "cra-template": "1.2.0",
     "framer-motion": "^12.4.2",

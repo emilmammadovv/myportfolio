@@ -2,7 +2,7 @@ import React from "react";
 import { QRCodeCanvas } from "qrcode.react";
 
 const QRCodeComponent = () => {
-  const websiteURL = "https://your-portfolio-website.com";
+  const websiteURL = "https://emilmammadovv.github.io/myportfolio/";
 
   return (
     <div className="absolute top-16 left-6">
